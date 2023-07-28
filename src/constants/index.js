@@ -17,7 +17,7 @@ import {
   geogo,
   srs,
   sbm,
-  jobit,
+  portfolio,
   chatsync,
   java,
 } from "../assets";
@@ -188,8 +188,8 @@ const projects = [
         color: "blue-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "",
+    image: portfolio,
+    source_code_link: "https://github.com/PranaySanjule/pranaysportfolio",
   },
   {
     name: "Chat Sync",

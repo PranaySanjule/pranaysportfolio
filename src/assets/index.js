@@ -25,7 +25,7 @@ import geogo from "./company/geogo.png";
 import srs from "./company/srs.png";
 
 import sbm from "./sbm.png";
-import jobit from "./jobit.png";
+import portfolio from "./portfolio.png";
 import chatsync from "./chatsync.png";
 
 export {
@@ -51,6 +51,6 @@ export {
   geogo,
   srs,
   sbm,
-  jobit,
+  portfolio,
   chatsync,
 };
