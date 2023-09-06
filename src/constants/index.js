@@ -192,7 +192,7 @@ const projects = [
     source_code_link: "https://github.com/PranaySanjule/pranaysportfolio",
   },
   {
-    name: "Chat Sync",
+    name: "Chat Sync (Coming Soon)",
     description:
       "Chat Sync is a real-time chat application built with ReactJS for the frontend, NodeJS and ExpressJS for the backend, and MongoDB for the database, enabling seamless communication and messaging between users.",
     tags: [
