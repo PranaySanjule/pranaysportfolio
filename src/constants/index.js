@@ -117,7 +117,7 @@ const experiences = [
     company_name: "SRS Infosystem pvt ltd",
     icon: srs,
     iconBg: "#383E56",
-    date: "Jan 2022 - Jan 2023",
+    date: "Feb 2022 - April 2023",
     points: [
       "Developing and maintaining web applications using PHP and other related technologies.",
       "Worked with PHP and API using Postman to create backend for extracting image data and to post image to the MySQL database system.",
@@ -130,7 +130,7 @@ const experiences = [
     company_name: "GEOGO TECHSOLUTIONS",
     icon: geogo,
     iconBg: "#ffffff",
-    date: "Jan 2023 - Present",
+    date: "Oct 2021 - Nov 2021",
     points: [
       "Developing and maintaining web applications using React.js, NodeJS and other related technologies.",
       "Worked with NodeJS, ExpressJS, MongoDB Database on the backend side to create server and built a  RestAPI using POSTMAN.",
